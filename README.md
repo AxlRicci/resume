@@ -32,6 +32,7 @@ A survey platform for schools to collect, measure and analyze school travel mode
 <br>
 
 [![Modal---Demo.gif](https://media.giphy.com/media/p3kQTVciQHJd7B53zG/giphy.gif)](https://media.giphy.com/media/p3kQTVciQHJd7B53zG/giphy.gif)
+
 <br>
 
 ## In The Know Local: Online Magazine
@@ -40,6 +41,7 @@ An online publication that features guest interviews about the highlights of the
 <br>
 
 [![Modal---Demo.gif](https://media.giphy.com/media/p3kQTVciQHJd7B53zG/giphy.gif)](https://media.giphy.com/media/p3kQTVciQHJd7B53zG/giphy.gif)
+
 <br>
 
 ## Personal Portfolio
@@ -48,6 +50,8 @@ My personal portfolio. Features animations using GSAP and automatic content publ
 <br>
 
 ![https://media.giphy.com/media/ZN4rKgqEjNkWtgcmYN/giphy.gif](https://media.giphy.com/media/ZN4rKgqEjNkWtgcmYN/giphy.gif)
+
+<br>
 <br>
 
 # Technical Skills
@@ -60,7 +64,7 @@ My personal portfolio. Features animations using GSAP and automatic content publ
 - Markdown
 - Headless CMS (Sanity.io)
 - Adobe Xd
-<br>
+  
 <br>
 
 # Experience

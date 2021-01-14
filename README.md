@@ -32,7 +32,7 @@ I'm a code junkie who brings self-discipline, passion and proven web development
 A survey platform for schools to collect, measure and analyze school travel mode split. Features CRUD, User Authentication, and Data visualization.
 <br>
 
-![Modal--Demo](https://media.giphy.com/media/p3kQTVciQHJd7B53zG/giphy.gif)
+![Modal--Demo](https://media.giphy.com/media/p3kQTVciQHJd7B53zG/source.gif)
 
 <br>
 
@@ -41,7 +41,7 @@ A survey platform for schools to collect, measure and analyze school travel mode
 An online publication that features guest interviews about the highlights of their city. Features a streamlined publishing process using Google forms and firebase.
 <br>
 
-![InTheKnowLocal--Demo](https://media.giphy.com/media/UARN7I7odkdVhbqWmf/giphy.gif)
+![InTheKnowLocal--Demo](https://media.giphy.com/media/UARN7I7odkdVhbqWmf/source.gif)
 
 <br>
 
@@ -50,7 +50,7 @@ An online publication that features guest interviews about the highlights of the
 My personal portfolio. Features animations using GSAP and automatic content publishing and build process through Sanity.io CMS and Netlify.
 <br>
 
-![portflio--Demo](https://media.giphy.com/media/ZN4rKgqEjNkWtgcmYN/giphy.gif)
+![portflio--Demo](https://media.giphy.com/media/Ob0u1BSoLc7RRwzHhs/source.gif)
 
 <br>
 <br>

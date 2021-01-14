@@ -23,6 +23,7 @@
 
 # Profile
 I'm a code junkie who brings self-discipline, passion and proven web development skills to the table. I'm self-taught. A problem solver and I'm driven. For two years I immersed myself in learning web development while working full time with the Waterloo School Board. In other words? I know how to work hard, stay focused and function on 5 hours of sleep.
+
 <br>
 
 # Projects

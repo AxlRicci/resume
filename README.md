@@ -31,30 +31,35 @@ I'm a code junkie who brings self-discipline, passion and proven web development
 <br>
 
 # Projects
-> ## Modal: Survey Platform
-> ### React, Firebase, Bootstrap 3, Recharts
-> A survey platform for schools to collect, measure and analyze school travel mode split. Features CRUD, User Authentication, and Data visualization.
-> <br>
-> <br>
-> [![Modal---Demo.gif](https://media.giphy.com/media/p3kQTVciQHJd7B53zG/giphy.gif)](https://media.giphy.com/media/p3kQTVciQHJd7B53zG/giphy.gif)
+## Modal: Survey Platform
+### React, Firebase, Bootstrap 3, Recharts
+A survey platform for schools to collect, measure and analyze school travel mode split. Features CRUD, User Authentication, and Data visualization.
+<br>
 
-> ## In The Know Local: Online Magazine
-> ### React, Firebase, SASS, Google AppScript
-> An online publication that features guest interviews about the highlights of their city. Features a streamlined publishing process using Google forms and firebase.
-> <br>
-> <br>
-> [![Modal---Demo.gif](https://media.giphy.com/media/p3kQTVciQHJd7B53zG/giphy.gif)](https://media.giphy.com/media/p3kQTVciQHJd7B53zG/giphy.gif)
+[![Modal---Demo.gif](https://media.giphy.com/media/p3kQTVciQHJd7B53zG/giphy.gif)](https://media.giphy.com/media/p3kQTVciQHJd7B53zG/giphy.gif)
 
-> ## Personal Portfolio
-> ### Gatsby JS, Styled Components, GSAP, Sanity CMS, 
-> My personal portfolio. Features animations using GSAP and automatic content publishing and build process through Sanity.io CMS and Netlify.
-> <br>
-> <br>
-> ![https://media.giphy.com/media/ZN4rKgqEjNkWtgcmYN/giphy.gif](https://media.giphy.com/media/ZN4rKgqEjNkWtgcmYN/giphy.gif)
+<br>
 
+## In The Know Local: Online Magazine
+### React, Firebase, SASS, Google AppScript
+An online publication that features guest interviews about the highlights of their city. Features a streamlined publishing process using Google forms and firebase.
+<br>
+
+[![Modal---Demo.gif](https://media.giphy.com/media/p3kQTVciQHJd7B53zG/giphy.gif)](https://media.giphy.com/media/p3kQTVciQHJd7B53zG/giphy.gif)
+
+---
+<br>
+
+## Personal Portfolio
+### Gatsby JS, Styled Components, GSAP, Sanity CMS, Netlify
+My personal portfolio. Features animations using GSAP and automatic content publishing and build process through Sanity.io CMS and Netlify.
+<br>
+
+![https://media.giphy.com/media/ZN4rKgqEjNkWtgcmYN/giphy.gif](https://media.giphy.com/media/ZN4rKgqEjNkWtgcmYN/giphy.gif)
+
+<br>
 
 # Software Skills
-
 - HTML
 - CSS/SASS
 - Javascript/ES6
@@ -67,6 +72,47 @@ I'm a code junkie who brings self-discipline, passion and proven web development
 <br>
 <br>
 
+# Work Experience
+
+#### August 2018 - Present 
+### **School Travel Planning Facilitator** • Student Transportation Services of Waterloo Region
+<br>
+
+* Developing a web application (React, Sanity.io) that guides school stakeholders through the School Travel Planning Action Planning process. The application assists stakeholders to define goals and suggests programs and initiatives offered by STSWR that will help achieve the goals.
+* Collaborated with regional/municipal, school board and community stakeholders to create and implement individualized plans for schools to increase rates of active transportation.
+
+<br>
+
+#### September 2016 - July 2018
+### **Program Coordinator**  • Bike for Mike
+* Researched, developed, implemented and coordinated Bike for Mike’s Daily School Ride (DSR) bike education program for low SES elementary students in Hamilton.
+* Analysed and visualized safe routes to school for students and community stakeholders through static maps and shareable online interactive GIS projects.
+
+<br>
+
+#### September 2016 - August 2018
+### **GIS Consultant** • City of Hamilton 
+
+* Developed an online interactive ArcGIS application that integrated first person video footage of Hamilton’s bicycle infrastructure and temporal bike share location data to evaluate traffic through corridors of the network. The result helped staff prioritize network improvements and understand adoption of new infrastructure.
+* Analysed existing and proposed bicycle infrastructure to identify gaps in the service network and suggest improvements to Hamilton’s Cycling Master Plan.
+
+<br>
+
+#### May 2016 - May 2017
+### **GIS Consultant / Volunteer** • Cycle Hamilton  
+* Consulted with the members of Cycle Hamilton to develop an ArcGIS web application that used crowdsourced data to locate cycling network issues.
+
+<br>
+
+# Education
+#### September 2015 - August 2016
+### **Algonquin College** - GIS Post-Grad Certificate
+<br>
+
+#### September 2010 - December 2014
+### **Carleton University** - B.A Geography, Minor Psychology
+
+<br>
 ---
 
 > [alexricci.ca](https://www.alexricci.ca) &nbsp;&middot;&nbsp;

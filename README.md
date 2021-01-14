@@ -13,9 +13,6 @@
   <a href="https://alexricci.ca">alexricci.ca</a>
 </h4>
 
----
-
-<br>
 <h3 align="center">
   <a href="#profile">Profile</a> •
   <a href="#projects">Projects</a> •
@@ -31,6 +28,8 @@ I'm a code junkie who brings self-discipline, passion and proven web development
 <br>
 
 # Projects
+<br>
+
 ## Modal: Survey Platform
 ### React, Firebase, Bootstrap 3, Recharts
 A survey platform for schools to collect, measure and analyze school travel mode split. Features CRUD, User Authentication, and Data visualization.
@@ -47,7 +46,6 @@ An online publication that features guest interviews about the highlights of the
 
 [![Modal---Demo.gif](https://media.giphy.com/media/p3kQTVciQHJd7B53zG/giphy.gif)](https://media.giphy.com/media/p3kQTVciQHJd7B53zG/giphy.gif)
 
----
 <br>
 
 ## Personal Portfolio

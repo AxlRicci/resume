@@ -72,8 +72,6 @@ My personal portfolio. Features animations using GSAP and automatic content publ
 
 ##### August 2018 - Present 
 ### **School Travel Planning Facilitator** • Student Transportation Services of Waterloo Region
-<br>
-
 * Developing a web application (React, Sanity.io) that guides school stakeholders through the School Travel Planning Action Planning process. The application assists stakeholders to define goals and suggests programs and initiatives offered by STSWR that will help achieve the goals.
 * Collaborated with regional/municipal, school board and community stakeholders to create and implement individualized plans for schools to increase rates of active transportation.
 <br>

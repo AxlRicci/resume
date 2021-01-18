@@ -33,7 +33,8 @@ Now, I'm ready to find the right team for my first coding position. A place wher
 
 # Projects
 *For more project information and live links visit <a href="alexricci.ca">alexricci.ca</a>*
-## **Modal: Travel Mode Survey Platform** • *React, Firebase, Bootstrap 3, Recharts*
+## **Modal: Travel Mode Survey Platform** 
+### • *React, Firebase, Bootstrap 3, Recharts*
 A survey platform for schools to collect, measure and analyze school travel mode data. Features CRUD functionality, user authentication, and data visualization.
 <br>
 
@@ -41,7 +42,8 @@ A survey platform for schools to collect, measure and analyze school travel mode
 
 <br>
 
-## **In The Know Local: Online Magazine** • *React, Firebase, SASS, Google AppScript*
+## **In The Know Local: Online Magazine** 
+### • *React, Firebase, SASS, Google AppScript*
 An online publication that features real guest interviews highlighting the best places to eat, play and shop in their cities.  Features a streamlined publishing process using Google forms and firebase.
 <br>
 
@@ -49,7 +51,8 @@ An online publication that features real guest interviews highlighting the best 
 
 <br>
 
-## **Personal Portfolio** • *Gatsby JS, Styled Components, GSAP, Sanity CMS, Netlify*
+## **Personal Portfolio**
+### • *Gatsby JS, Styled Components, GSAP, Sanity CMS, Netlify*
 My personal portfolio. Features minimalist design, GSAP animations, and an automatic content publishing and build process through Sanity CMS and Netlify.
 <br>
 
@@ -59,11 +62,15 @@ My personal portfolio. Features minimalist design, GSAP animations, and an autom
 <br>
 
 # Technical Skills
-|   |   |   |
-|---|---|---|
-| HTML | CSS/SASS | Javascript/ES6
-| React | Styled Components | BEM
-| GraphQl / Restful APIs | Markdown | GIT
+* HTML
+* CSS/SASS
+* Javascript/ES6
+* React
+* Styled Components
+* BEM
+* GraphQl / Restful APIs
+* Markdown
+* GIT
 
 <br>
 
